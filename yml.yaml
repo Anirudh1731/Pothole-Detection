@@ -1,0 +1,9 @@
+# train and val data
+train: /content/drive/MyDrive/dataset/images/train
+val: /content/drive/MyDrive/dataset/images/val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['pothhole']
